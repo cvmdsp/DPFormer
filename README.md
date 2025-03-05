@@ -1,5 +1,5 @@
 #DPFormer
-The steps for using the MIMO-SST code are as follows:
+The steps for using the DPFormer code are as follows:
 1. Data Preprocessing:
 Put the training and testing images into the corresponding "Train" and "Test" folders, where HSI refers to HR-HSI (GT), and MSI refers to HR-MSI.
 2. Model Training:
